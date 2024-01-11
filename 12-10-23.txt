@@ -1,0 +1,50 @@
+component phases:
+mounting phase
+updating phase
+unmounting phase
+
+
+class components:
+we have methods 
+initial==this.state
+update==setstate
+
+
+functional componenets:
+hooks - usestate - 3 values
+          1)initial
+          2)accesing value
+          3)call back
+
+initial==useState
+update==call back
+
+
+
+useeffect 
+dependency array
+call back
+
+
+
+https://mocki.io/v1/d1f16339-9aec-4696-b302-7fd0cb0db28b
+
+
+require()
+
+
+
+virtual dom
+class based components
+life cycle methods for class based components
+how life cycle done in functional components
+hooks
+
+Ui
+
+arrow
+object destructing
+names
+
+
+
